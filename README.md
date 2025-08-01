@@ -26,9 +26,6 @@ Actively seeking a **Summer 2026 research or software internship**—let’s con
 | **python-small-game** | Modular network Tic-Tac-Toe with AI & sockets |
 | **b-tree-prac** | Clean Java implementation of B-Tree with tests |
 
-### 🗓 Activity Snapshot
-<!-- GitHub’s contribution graph will render automatically -->
-
 ### 🤝 How to Reach Me
 - **Email:** chrisc077@berkeley.edu  
 - **LinkedIn:** [linkedin.com/in/chris-c-010657267](https://www.linkedin.com/in/chris-c-010657267)
