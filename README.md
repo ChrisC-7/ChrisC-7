@@ -22,7 +22,6 @@ Actively seeking a **Summer 2026 research or software internship**—let’s con
 ### 📌 Pinned Projects
 | Repo | Brief |
 |------|-------|
-| **Fall-AI-Studio** <sub>(WIP)</sub> | Capstone RL/NLP project—full pipeline, notebook demos, docs |
 | **spam-classifier-adversarial-attack** | Naïve Bayes spam filter + adversarial analysis |
 | **python-small-game** | Modular network Tic-Tac-Toe with AI & sockets |
 | **b-tree-prac** | Clean Java implementation of B-Tree with tests |
